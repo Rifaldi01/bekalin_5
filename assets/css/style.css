@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #1f9d1c;
+  color: #d78827;
   text-decoration: none;
 }
 
@@ -514,7 +514,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #0f2f57;
+  color: #e5830b;
 }
 
 /*--------------------------------------------------------------
@@ -603,7 +603,7 @@ section {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #164682;
+  color: #e5830b;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
@@ -624,7 +624,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #123a6d;
+  color: #e5830b;
 }
 .why-us .content h4 {
   font-size: 20px;
@@ -1028,7 +1028,7 @@ section {
   color: #0b2341;
 }
 .portfolio .portfolio-item .portfolio-info p {
-  color: #1a5298;
+  color: #e5830b;
   font-size: 14px;
   margin-bottom: 0;
 }
@@ -1037,7 +1037,7 @@ section {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #123a6d;
+  color: #e5830b;
 }
 .portfolio .portfolio-item .portfolio-info .preview-link:hover, .portfolio .portfolio-item .portfolio-info .details-link:hover {
   color: #1f9d1c;
@@ -1446,7 +1446,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #f6f9fd;
+  background: #376513;
   min-height: 40px;
   margin-top: 82px;
 }
@@ -1474,7 +1474,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #123a6d;
+  color: #e5830b;
   content: "/";
 }
 
@@ -1482,9 +1482,9 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #071527;
+  background: #1a8427;
   padding: 0 0 30px 0;
-  color: #fff;
+  color: #b67210;
   font-size: 14px;
 }
 #footer .footer-top {
@@ -1492,7 +1492,7 @@ section {
 }
 #footer .footer-top .footer-info {
   margin-bottom: 15px;
-  background: #05101e;
+  background: #1adb50;
   border-top: 4px solid #1f9d1c;
   text-align: center;
   padding: 30px 20px;
