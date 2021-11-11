@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #1f9d1c;
+  color: #d78827;
   text-decoration: none;
 }
 
@@ -1446,7 +1446,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #f6f9fd;
+  background: #376513;
   min-height: 40px;
   margin-top: 82px;
 }
@@ -1482,9 +1482,9 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #071527;
+  background: #1a8427;
   padding: 0 0 30px 0;
-  color: #fff;
+  color: #b67210;
   font-size: 14px;
 }
 #footer .footer-top {
@@ -1492,7 +1492,7 @@ section {
 }
 #footer .footer-top .footer-info {
   margin-bottom: 15px;
-  background: #05101e;
+  background: #1adb50;
   border-top: 4px solid #1f9d1c;
   text-align: center;
   padding: 30px 20px;
