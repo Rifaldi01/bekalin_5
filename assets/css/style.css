@@ -514,7 +514,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #0f2f57;
+  color: #e5830b;
 }
 
 /*--------------------------------------------------------------
@@ -603,7 +603,7 @@ section {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #164682;
+  color: #e5830b;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
@@ -624,7 +624,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #123a6d;
+  color: #e5830b;
 }
 .why-us .content h4 {
   font-size: 20px;
@@ -1028,7 +1028,7 @@ section {
   color: #0b2341;
 }
 .portfolio .portfolio-item .portfolio-info p {
-  color: #1a5298;
+  color: #e5830b;
   font-size: 14px;
   margin-bottom: 0;
 }
@@ -1037,7 +1037,7 @@ section {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #123a6d;
+  color: #e5830b;
 }
 .portfolio .portfolio-item .portfolio-info .preview-link:hover, .portfolio .portfolio-item .portfolio-info .details-link:hover {
   color: #1f9d1c;
@@ -1474,7 +1474,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #123a6d;
+  color: #e5830b;
   content: "/";
 }
 
